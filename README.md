@@ -1,80 +1,11 @@
-# Hi 👋, I'm Tripti Singh
-
-🚀 Aspiring DevOps & Cloud Engineer
-💻 Backend Developer (Spring Boot)
-☁️ Hands-on with Docker, CI/CD & Google Cloud
-
----
-
-## 🧑‍💻 About Me
-
-* 🔭 I’m currently working on **DevOps & Cloud Projects**
-* 🌱 I’m learning **Kubernetes & Advanced CI/CD**
-* 💡 Interested in **Cloud Infrastructure & Automation**
-* 🎯 Goal: To become a **DevOps Engineer**
-
----
-
-## ⚙️ Tech Stack
-
-* **Languages:** Java, SQL, JavaScript
-* **Backend:** Spring Boot, REST APIs
-* **DevOps:** Docker, GitHub Actions, CI/CD
-* **Cloud:** Google Cloud Platform (GCP)
-* **Tools:** Git, Linux, MySQL, Postman
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Votezy – Online Voting System
-
-* Secure voting system with authentication
-* Dockerized & deployed using CI/CD
-  
-
----
-
-### 🔹 ChitChat – Real-time Chat App
-
-* Backend APIs for messaging system
-* Real-time communication handling
- 
-
----
-
-### 🔹 Cloud Portfolio Website
-
-* Deployed on Google Cloud
-* Automated deployment using CI/CD
+# 💫 About Me:
+# Hi 👋, I'm Tripti Singh<br><br>🚀 Aspiring DevOps & Cloud Engineer<br>💻 Backend Developer | Spring Boot<br>☁️ Docker | CI/CD | GCP<br><br>---<br><br>## 🧑‍💻 About Me<br><br>* 🔭 Working on DevOps & Cloud Projects<br>* 🌱 Learning Kubernetes & Advanced CI/CD<br>* 💡 Interested in Cloud, Automation & Scalability<br>* 🎯 Goal: DevOps Engineer<br><br>---<br><br>## ⚙️ Tech Stack<br><br>Java | Spring Boot | Docker | GitHub Actions | GCP | MySQL | Linux<br><br>---<br><br>## 📊 GitHub Stats<br><br>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&theme=tokyonight)<br><br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername\&layout=compact\&theme=tokyonight)<br><br>---<br><br>## 🔥 GitHub Streak<br><br>![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername\&theme=tokyonight)<br><br>---<br><br>## 📈 Contribution Graph<br><br>![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername\&theme=tokyo-night)<br><br>---<br><br><br><br>## 📫 Connect With Me<br><br>LinkedIn: https://linkedin.com/in/tripti-singh-19<br>Email: triptis512@gmail.com<br>---<br><br>⭐ Always learning DevOps & Cloud!<br>
 
 
----
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=plastic&logo=Thymeleaf&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=Hibernate&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![CloudBees](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=plastic) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-## 📫 Connect With Me
-
-* 💼 LinkedIn: https://linkedin.com/in/tripti-singh-19
-* 📧 Email: triptis512@gmail.com
-
----
-
-⭐ *Always learning, building, and improving in DevOps & Cloud!*
-## Hi there 👋
-
-<!--
-**triptii190804/triptii190804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

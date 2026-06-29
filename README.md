@@ -1,17 +1,165 @@
-# 💫 About Me:
-# Hi 👋, I'm Tripti Singh<br><br> 🧑‍💻 Java Developer 💻 Backend Developer  Software Engineer <br> | Spring Boot<br>☁️ Docker | CI/CD | GCP<br><br>---<br><br>## 🧑‍💻 About Me<br><br>* * Building scalable backend applications using Java & Spring Boot
+```md
+<div align="center">
 
-* Learning cloud-native backend deployment
+# Hi 👋, I'm Tripti Singh
 
-* Interested in APIs, microservices & backend scalability
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Software+Engineer;Spring+Boot+%7C+REST+APIs+%7C+MySQL;Docker+%7C+Google+Cloud+%7C+GitHub+Actions;Always+Learning+%26+Building" />
 
-* Goal: Software Engineer / Java Backend Developer<br><br>## ⚙️ Tech Stack<br><br>Java | Spring Boot | Docker | GitHub Actions | GCP | MySQL | Linux<br><br>---<br><br>## 📊 GitHub Stats<br><br>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&theme=tokyonight)<br><br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername\&layout=compact\&theme=tokyonight)<br><br>---<br><br>## 🔥 GitHub Streak<br><br>![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername\&theme=tokyonight)<br><br>---<br><br>📫 Connect With Me<br><br>LinkedIn: https://linkedin.com/in/tripti-singh-19<br>Email: triptis512@gmail.com<br>---<br><br>⭐ Always learning DevOps & Cloud!<br>
+<p>
+<a href="https://komarev.com/ghpvc/?username=triptii190804">
+<img src="https://komarev.com/ghpvc/?username=triptii190804&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</a>
 
+<a href="https://github.com/triptii190804?tab=followers">
+<img src="https://img.shields.io/github/followers/triptii190804?label=Followers&style=for-the-badge"/>
+</a>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=plastic&logo=Thymeleaf&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=Hibernate&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![CloudBees](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=plastic) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white)
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+# 💫 About Me
+
+🚀 Passionate about building scalable backend applications using **Java** and **Spring Boot**.
+
+- 💻 Java Backend Developer
+- 🌱 Learning Cloud-Native Backend Development
+- ⚙ Building REST APIs & Scalable Applications
+- ☁ Exploring Docker, CI/CD & Google Cloud
+- 🎯 Looking for Software Engineer / Java Backend Developer opportunities
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,js"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,maven"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,gcp,githubactions,git,linux"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=idea"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🎙 AI Audio-to-Text Transcription System
+
+- Spring Boot Backend
+- OpenAI Whisper Integration
+- Asynchronous Processing
+- Vector Embeddings & RAG Search
+
+---
+
+## 💬 ChitChat
+
+- Java
+- Spring Boot
+- REST APIs
+- MySQL
+
+---
+
+## 🗳 Votezy
+
+- Secure Online Voting Platform
+- Authentication & Role-Based Access
+- Spring Boot + MySQL
+
+---
+
+## 🎓 Student Management System
+
+- CRUD Operations
+- Pagination
+- Search & Filters
+- Role-Based Modules
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=triptii190804&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=triptii190804&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=triptii190804&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=triptii190804&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/tripti-singh19">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:triptis512@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ "Code. Learn. Build. Repeat."
+
+</div>
+```

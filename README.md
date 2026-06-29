@@ -1,5 +1,11 @@
 # 💫 About Me:
-# Hi 👋, I'm Tripti Singh<br><br> 🧑‍💻 Java Developer 💻 Backend Developer  Software Engineer <br> | Spring Boot<br>☁️ Docker | CI/CD | GCP<br><br>---<br><br>## 🧑‍💻 About Me<br><br>* 🔭 Working on DevOps & Cloud Projects<br>* 🌱 Learning Kubernetes & Advanced CI/CD<br>* 💡 Interested in Cloud, Automation & Scalability<br>* 🎯 Goal: DevOps Engineer<br><br>---<br><br>## ⚙️ Tech Stack<br><br>Java | Spring Boot | Docker | GitHub Actions | GCP | MySQL | Linux<br><br>---<br><br>## 📊 GitHub Stats<br><br>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&theme=tokyonight)<br><br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername\&layout=compact\&theme=tokyonight)<br><br>---<br><br>## 🔥 GitHub Streak<br><br>![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername\&theme=tokyonight)<br><br>---<br><br>📫 Connect With Me<br><br>LinkedIn: https://linkedin.com/in/tripti-singh-19<br>Email: triptis512@gmail.com<br>---<br><br>⭐ Always learning DevOps & Cloud!<br>
+# Hi 👋, I'm Tripti Singh<br><br> 🧑‍💻 Java Developer 💻 Backend Developer  Software Engineer <br> | Spring Boot<br>☁️ Docker | CI/CD | GCP<br><br>---<br><br>## 🧑‍💻 About Me<br><br>* * Building scalable backend applications using Java & Spring Boot
+
+* Learning cloud-native backend deployment
+
+* Interested in APIs, microservices & backend scalability
+
+* Goal: Software Engineer / Java Backend Developer<br><br>## ⚙️ Tech Stack<br><br>Java | Spring Boot | Docker | GitHub Actions | GCP | MySQL | Linux<br><br>---<br><br>## 📊 GitHub Stats<br><br>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&theme=tokyonight)<br><br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername\&layout=compact\&theme=tokyonight)<br><br>---<br><br>## 🔥 GitHub Streak<br><br>![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername\&theme=tokyonight)<br><br>---<br><br>📫 Connect With Me<br><br>LinkedIn: https://linkedin.com/in/tripti-singh-19<br>Email: triptis512@gmail.com<br>---<br><br>⭐ Always learning DevOps & Cloud!<br>
 
 
 # 💻 Tech Stack:
